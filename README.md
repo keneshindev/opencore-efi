@@ -23,7 +23,8 @@ Works with macOS Catalina 10.15.7. Untested with Big Sur, probably would be PITA
 ## Hardware
 --------------------------
 | Component | Model      |
-| Laptop    | X540YA-XO033D |
+|-----------|------------|
+| Laptop    |X540YA-XO033D|
 | CPU       | E1-7010    |
 | iGPU      | Radeon R2  |
 | Sound Card| CX20752    |
